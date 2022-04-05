@@ -10,9 +10,13 @@ namespace MineSweeper
         [TestMethod]
         public void TestMethod1()
         {
-            Mine mineTest = new Mine();
+            //Assert.AreEqual("Expected outcome", "Actual Outcome", "Error message if test fails");
 
+            Mine mineTest = new Mine();
             Assert.AreEqual(false,mineTest.getIsMine(),"Initialised incorrectly");
+            mineTest.setMine();
+            Assert.AreEqual(true, mineTest.getIsMine(), "Boolian did not change");
+
         }
 
     }
