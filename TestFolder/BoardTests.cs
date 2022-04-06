@@ -11,25 +11,15 @@ namespace MineSweeper
     {
         [TestClass]
 
-
-
         // ____Tests For the name of the file
         public class ______Tests
         {
             [TestMethod]
             public void TestMethod1()
             {
-
-
-
+                
             }
-
-
-
         }
-
-
-
     }
 */
     public class BoardTests

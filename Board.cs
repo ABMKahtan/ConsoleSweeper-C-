@@ -9,7 +9,7 @@ namespace MineSweeper
     {
         //attributes
         Mine[,] board;
-        int noOfMines;
+        int totalNoOfMines;
         int boardSize;
 
         //constructor

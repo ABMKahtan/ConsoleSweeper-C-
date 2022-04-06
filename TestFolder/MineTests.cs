@@ -16,7 +16,6 @@ namespace MineSweeper
             Assert.AreEqual(false,mineTest.getIsMine(),"Initialised incorrectly");
             mineTest.setMine();
             Assert.AreEqual(true, mineTest.getIsMine(), "Boolian did not change");
-
         }
 
     }
