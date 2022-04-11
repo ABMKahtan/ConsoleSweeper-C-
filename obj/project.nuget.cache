@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v6d/QcUmYMznNBb3QqPIzJ0o05Q48rktDoHytNdca0xJUkUzRmAWEAIyGlj20JiU3Bpz0b7aXwwDtoYkOLAsqA==",
+  "dgSpecHash": "su/JSd3hrpvfbnAnWpcj4n0Mrw/HwWOBt8Szrw/oclnz1NJqBHqXVvPzz818cS2EkRiE3IaOG9XYAbMb5OLjjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abumk\\IdeaProjects\\MineSweeper\\MineSweeper.csproj",
+  "projectFilePath": "c:\\Users\\abumk\\IdeaProjects\\MineSweeper\\MineSweeper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abumk\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\abumk\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
